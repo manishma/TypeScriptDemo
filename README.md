@@ -1,4 +1,4 @@
 TypeScriptDemo
 ==============
 
-Web project contais TypeScript demos
+An ASP.NET/TypeScript Demo project
